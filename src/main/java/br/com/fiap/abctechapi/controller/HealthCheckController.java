@@ -1,4 +1,4 @@
-package br.com.fiap.abdctechapi.controller;
+package br.com.fiap.abctechapi.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

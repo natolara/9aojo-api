@@ -1,13 +1,13 @@
-package br.com.fiap.abdctechapi;
+package br.com.fiap.abctechapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AbdctechapiApplication {
+public class AbctechapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AbdctechapiApplication.class, args);
+		SpringApplication.run(AbctechapiApplication.class, args);
 	}
 
 }
